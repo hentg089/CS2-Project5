@@ -1,0 +1,3 @@
+C:/Users/markh/OneDrive/Desktop/cs1521/projects/proj5.newhope/cmake-build-debug/CMakeFiles/proj5_newhope.dir
+C:/Users/markh/OneDrive/Desktop/cs1521/projects/proj5.newhope/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/markh/OneDrive/Desktop/cs1521/projects/proj5.newhope/cmake-build-debug/CMakeFiles/rebuild_cache.dir
